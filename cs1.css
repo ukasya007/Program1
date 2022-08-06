@@ -1,0 +1,21 @@
+body{
+    background: blue;
+    color: #ffffff;
+}
+h1{
+    text-align: center;
+}
+
+.box{
+    background: blueviolet;
+    height: 200px;
+    width: 400px;
+    margin: 20px;
+}
+
+.box-dua{
+    background: red;
+    height: 100px;
+    width: 600px;
+    margin-bottom: 70px;
+}
